@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Bangers', cursive;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  background: red;
+  color: white;
+}
+body {
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-style: normal;
+  font-size: 2em;
+  text-align: center;
+}
